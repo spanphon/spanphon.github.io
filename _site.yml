@@ -8,7 +8,7 @@ output:
     css: styles.css
 output_dir: "docs"
 navbar:
-  title: "Intro to Spanish Phonetics and Phonology"
+  title: "Spanish Phonetics and Phonology"
   left:
     - icon: fa-home
       href: index.html
@@ -18,6 +18,6 @@ navbar:
       href: book/index.html
   right:
     - icon: fa-github
-      href: https://github.com/jvcasillas/spanish_phonetics
+      href: https://github.com/spanphon/
     - icon: fa-envelope
       href: "mailto: joseph.casillas@rutgers.edu"
