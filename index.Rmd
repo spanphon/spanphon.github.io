@@ -1,0 +1,7 @@
+---
+title: "Intro to Spanish Phonetics and Phonology"
+---
+
+```{r, 'span362-logo', echo=F, out.width='45%', fig.align='center'}
+knitr::include_graphics("https://raw.githubusercontent.com/jvcasillas/hex_stickers/master/stickers/intro_phonetics.png")
+```

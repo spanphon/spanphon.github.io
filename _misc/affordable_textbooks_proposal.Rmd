@@ -1,0 +1,142 @@
+1. Please describe your overall approach, including how you would reimagine 
+the curriculum with open and affordable resources, implement your plan, and 
+engage with the Libraries.
+
+My approach to creating free and affordable materials for pedagogical purposes 
+is directly derived from the way in which I conduct science. 
+I am a strong believer in open science, open access, and reproducible research. 
+At the heart of conducting open, reproducible science is the use of free, 
+cross-platform software. 
+In my research I use the programming language R (XXXX) for statistical 
+computing and the generation of reproducible documents. 
+In this context a reproducible document includes .docx word files, PDFs, 
+websites and web applications. 
+I am an experienced programmer and have used the aforementioned resources to 
+create class documents, websites and applications for my teaching and research 
+for over 5 years. I have included examples of some of the resources I have 
+created below. 
+I regularly teach Introduction to Spanish Phonetics and Phonology in the 
+Department of Spanish and Portuguese and I am applying for the Open and 
+Affordable Textbooks grant in order to reimagine this course.
+Specifically, I would like to reimagine Spanish Phonetics and Phonology 
+in 3 ways: 1) through and open source website written in RMarkdown that hosts 
+the materials, 2) a free, open source textbook written in Bookdown, and 
+3) various interactive web applications written in R using the Shiny platform. 
+Together, the creation of these materials will replace the current textbooks 
+used to teach this course. These textbooks are: 
+
+- Barrutia, Richard & Armin Schwegler (eds.) 1994. Fonética y fonología españolas: teoría y práctica. New York: Wiley. [2nd edition].
+- Hammond, Robert. 2001. The Sounds of Spanish. Somerville, MA: Cascadilla. Audio files: http://www.cascadilla.com/ssaa/index.html.
+- Piñeros, Carlos Eduardo. 2008. Estructura de los sonidos del español. Upper Saddle River, NJ: Pearson, Prentice Hall
+
+Together, these materials cost approximately $200 new through Amazon, and often 
+much more through other venues. 
+I conceive of implementing this plan by writing all the code myself over the 
+course of the next year and a half. 
+The materials will be open source and hosted on Github, a free, web-based hosting 
+service that provides version control and facilitates open source product 
+development. 
+Given the electronic nature of the proposed materials, engagement with 
+Libraries will likely be minimal. 
+Specifically, the present proposal does not require that any physical materials 
+be hosted in any way. 
+I anticipate that engagement with Libraries will be related to documentation in 
+the library systems.
+
+2. How will you assess the impact of the proposed course changes on students?
+
+I plan to assess the impact of the proposed course changes on my students via 
+assessment questionnaires. 
+I have been administering questionnaires related to the content, coursework, 
+and pedagogical practices in Introduction to Spanish Phonetics and Phonology 
+since 2016. 
+Thus, I have baseline data with which I can assess statistically the impact of 
+the proposed course changes through student responses before and after the 
+implementation of the new materials. 
+
+
+3. What is the potential for long-term sustainability of this proposal, 
+including the use of open and affordable materials over multiple semesters 
+and/or by other instructors?
+
+The benefits of using free, open source software and hosting all of the code 
+on a free coding platform, such as Github, is that all material will be version 
+controlled and completely free for the foreseeable future. 
+This suggests that the materials can be used over many semesters and by 
+other instructors at Rutgers University and around the world. 
+
+4. What materials do you intend to use/add in your course, including any Open 
+Educational Resources (OER) or affordable materials, such as library 
+resources and reduced-cost materials?
+
+I intend to add 3 distinct types of materials to the Introduction to 
+Phonetics and Phonology course. 
+The principle material will be a free, open access textbook to replace the 
+three textbooks currently being implemented. 
+The textbook will be written using the Bookdown frame via RMarkdown in the 
+R environment. 
+Bookdown is a freely available package used to produce professional, 
+adaptable manuscripts in print and online formats. Please see the following 
+websites for examples: 
+
+- https://bookdown.org/yihui/bookdown/
+- https://r4ds.had.co.nz
+
+Next, I intend to create interactive web applications that will serve to 
+help students assimilate the course material. 
+For example, one web application will demonstrate the articulation of Spanish 
+sounds and contrast them with the sounds of English. 
+The web applications will be created using the Shiny platform available in 
+the R environment. 
+Please see the following examples for some of the web applications I have 
+written for other courses: 
+
+- https://jvcasillas.shinyapps.io/shiny_bivariate_regression/
+- https://jvcasillas.shinyapps.io/r_for_linguists/
+- https://jvcasillas.shinyapps.io/shiny_distinctiveFeatures/
+- More available here: https://www.jvcasillas.com/code/index.html
+
+Finally, I intend to host the aforementioned material in a course website 
+created specifically for Introduction to Spanish Phonetics and Phonology. 
+The website will also provide access to course lectures in html format. 
+The website will be written in R code via the Blogdown package. 
+Please see the following website for an example I have created for my 
+Data Science in Linguistics course: 
+
+- https://www.jvcasillas.com/ru_teaching/ru_spanish_589/589_01_s2018/
+
+
+5. What materials currently being used for this course will be replaced with 
+open and affordable materials? Please include title(s) and authors(s). Note: 
+if this is a new course, indicate what textbook you would have used if you 
+were not going to use an open/affordable text.
+
+The materials currently being used to teach this course that will be replaced 
+with open and affordable materials are the following: 
+
+- Barrutia, Richard & Armin Schwegler (eds.) 1994. Fonética y fonología españolas: teoría y práctica. New York: Wiley. [2nd edition].
+- Hammond, Robert. 2001. The Sounds of Spanish. Somerville, MA: Cascadilla. Audio files: http://www.cascadilla.com/ssaa/index.html.
+- Piñeros, Carlos Eduardo. 2008. Estructura de los sonidos del español. Upper Saddle River, NJ: Pearson, Prentice Hall
+
+
+6. What is the current cost of the course materials per student for this course? 
+Please estimate if this is a new course. 
+
+The aforementioned materials together cost the student approximately $200. 
+
+7. What is the expected cost (if any) of the NEW course materials per students?
+
+There is no expected cost aside from my time for the new course materials per 
+student. 
+
+8. Please upload any relevant materials (e.g., an endorsement letter from your 
+department chair, samples of new course materials)
+
+9. Is there anything else you would like to us to know about your application?
+
+I feel strongly about the use of free, open access materials in science and in 
+education. 
+I am extremely pleased to see initiatives such as this one that will make higher 
+learning possible to a larger amount of people. 
+If I can provide more information or more examples of other materials I have 
+created for open, free access please let me know. 
